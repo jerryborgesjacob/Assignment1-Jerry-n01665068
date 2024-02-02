@@ -7,8 +7,13 @@ using System.Web.Http;
 
 namespace HTTP5125Assignment1.Controllers
 {
-    public class Q1Controller : ApiController
+    public class AddTenController : ApiController
     {
+        public int Get(int id)
+        {
+            int Result = id + 10;
 
+            return Result;
+        }
     }
 }
