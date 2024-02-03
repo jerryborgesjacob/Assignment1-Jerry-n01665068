@@ -6,6 +6,6 @@ The files for my assignment-1 can be found in this repo.
 HTTP5125Assignment1 --> Controllers
 
 ### ---------
-All the questions in the assignment have been attempted.
-All the files have been verified to work.
-All the answers were verified with the sample responses in the assignment PDF.
+- All the questions in the assignment have been attempted.
+- All the files have been verified to work.
+- All the answers were verified with the sample responses in the assignment PDF.
