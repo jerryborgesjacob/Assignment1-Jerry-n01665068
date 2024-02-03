@@ -7,5 +7,5 @@ HTTP5125Assignment1 --> Controllers
 
 ### NOTES:
 - All the questions in the assignment have been attempted.
-- All the files have been verified to work.
+- All the files have been verified to run.
 - All the answers were verified with the sample responses in the assignment PDF.
